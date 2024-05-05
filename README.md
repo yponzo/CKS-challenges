@@ -1,6 +1,8 @@
 # CKS-challenges
 Lab- Challenge 1  
 
+![ch1](img/CKS_ch1.png)
+
 1/  
 ```
 alias k=kubectl
