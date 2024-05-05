@@ -1,6 +1,8 @@
 # CKS-challenges
 Lab- Challenge 1  
 
+https://kodekloud.com/courses/cks-challenges/
+
 ![ch1](img/CKS_ch1.png)
 
 1/  
